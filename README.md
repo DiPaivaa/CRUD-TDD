@@ -22,7 +22,7 @@ git clone -b NameBranch Link
 
 Developers
 ----
-Developed by Joel
+Developed by Diana
 
    [PlDb]: <https://developer.mozilla.org/pt-BR/docs/Web/HTML>
    [PlGh]: <https://developer.mozilla.org/pt-BR/docs/Web/CSS>
